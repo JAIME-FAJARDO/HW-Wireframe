@@ -1,0 +1,32 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Building a Wireframe</title>
+
+</head>
+
+<body>
+
+<h4>header</h4>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac erat lobortis, tincidunt risus sit amet, ullamcorper
+ dui. Etiam consequat odio porttitor arcu dictum accumsan. Donec auctor lacus at turpis pretium facilisis. Nullam 
+posuere faucibus ante, quis mollis justo dapibus in. Praesent sem lectus, cursus non purus id, cursus imperdiet risus.
+ Donec erat eros, dignissim vulputate sagittis non, bibendum id ligula. Mauris ac nunc viverra, pulvinar diam ut, 
+facilisis mi. Quisque non tristique arcu, vel accumsan diam. Maecenas porttitor metus nec lectus consequat, 
+eu malesuada est commodo. Fusce dolor erat, tincidunt ut est eu, iaculis lacinia quam. Morbi at luctus nibh.
+ Sed consequat et purus id accumsan. Morbi malesuada fermentum rutrum.</p>
+
+
+<header>
+  <h2>Cities</h2>
+</header>
+
+
+<footer>
+  <p>footer</p>
+</footer>
+
+</body>
+</html>

@@ -21,9 +21,9 @@
 	padding: 20px;
 	margin-bottom: 20px;	
 	background: #ebebeb;
-	 margin-left: 50px; 
-	 margin-right: 50px;
-	 width: 870px; 
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 870px;
 	text-align: center;
 	}
 .navigation {
@@ -50,12 +50,12 @@
   
       
 .article {
-	    /* margin-bottom: 20px; */
+	    margin-bottom: 20px;
 		color: #ebebeb;
 		background: #777;
 		width: 90%;
-		height: 100px; /* could be any value */
-		/* padding: 20px; */
+		height: 90px; /* could be any value */
+		padding: 20px;
 		text-decoration-color: white;
 		/* border: 1px solid #eee; */
 		
@@ -65,7 +65,6 @@
 	/* border: 1px solid #eee; */
 	text-align: center;
 	color: #777;
-	
 
  } 
 
@@ -75,7 +74,6 @@
 	/* border: 1px solid #eee; */
 	text-align: center;
 	color: #777;
-	
 
  } 
 
